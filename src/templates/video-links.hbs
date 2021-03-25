@@ -1,0 +1,24 @@
+<table>
+	<caption>JS: List of videos and webinars</caption>
+	<thead class="head">
+		<tr>
+			<th>Date</th>
+			<th>Author</th>
+			<th>Description</th>
+			<th>Link</th>
+		</tr>
+	</thead>
+	<tbody>
+		{{#each this}}
+		<tr>
+			<td>{{date}}</td>
+			<td>{{author}}</td>
+			<td>{{description}}</td>
+			<td>{{#each links}}
+				<a href="{{this.link}}">{{this.source}}</a>
+				{{/each}}
+			</td>
+		</tr>
+		{{/each}}
+	</tbody>
+</table>
