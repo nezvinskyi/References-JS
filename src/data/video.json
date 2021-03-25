@@ -1,0 +1,33 @@
+[
+	{"date": "2021-03-23",
+	"author": "Mango",
+	"description": "Разбор дз13, обработка ошибок в Fetch, axios",
+	"links": [
+		{"source": "YouTube",
+		"link": "https://youtu.be/VSv42sSlNTw"},
+		{"source": "Zoom",
+			"link": "https://us02web.zoom.us/rec/share/FksSZxbjPuuiWcKQBuRW96gHxqKovvFVLRJTyAtSINq50ILUzvUYY10p1jvr4a_Z.tMIQOJTq6LdUqsSX?startTime=1616520087000"}
+	]
+	},
+	{"date": "2021-03-21",
+	"author": "Leo",
+	"description": "Prophecy",
+	"links": [
+		{"source": "YouTube",
+		"link": "https://youtu.be/VSv42sSlNTw"},
+		{"source": "Zoom",
+			"link": "https://us02web.zoom.us/rec/share/FksSZxbjPuuiWcKQBuRW96gHxqKovvFVLRJTyAtSINq50ILUzvUYY10p1jvr4a_Z.tMIQOJTq6LdUqsSX?startTime=1616520087000"}
+	]
+	},
+	{"date": "2021-03-25",
+	"author": "Leo",
+	"description": "Prophecy",
+	"links": [
+		{"source": "YouTube",
+		"link": "https://youtu.be/VSv42sSlNTw"},
+		{"source": "Zoom",
+			"link": "https://us02web.zoom.us/rec/share/FksSZxbjPuuiWcKQBuRW96gHxqKovvFVLRJTyAtSINq50ILUzvUYY10p1jvr4a_Z.tMIQOJTq6LdUqsSX?startTime=1616520087000"}
+	]
+	}
+
+]
